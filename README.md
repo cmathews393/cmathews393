@@ -14,12 +14,12 @@ When I'm not working on things at my job, I spend my time working on Spotiplex, 
 
 Outside of my side projects and work, I like to read, watch movies, and listen to music. You can check out my goodreads for what I'm reading, and what I've read, but some of my favorites recently have been:
 
-- 🔪 The Last Murder at the End of The World
-- 🌌 Anything by LeGuin
-- 📝 Pages For You
+- 🔪 [The Last Murder at the End of The World](https://www.goodreads.com/book/show/136276877-the-last-murder-at-the-end-of-the-world)
+- 🌌 Anything by [LeGuin](https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin)
+- 📝 [Pages For You](https://www.goodreads.com/book/show/124854.Pages_for_You)
 
 Top 3 movies:
 
-- 📺 I Saw The TV Glow
-- 🎃 Halloween 3: SOTW
-- 🧱 Brick
+- 📺 [I Saw The TV Glow](https://letterboxd.com/film/i-saw-the-tv-glow/)
+- 🎃 [Halloween 3: SOTW](https://letterboxd.com/film/halloween-iii-season-of-the-witch/)
+- 🧱 [Brick](https://letterboxd.com/film/brick/)
