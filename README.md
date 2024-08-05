@@ -11,7 +11,8 @@ When I'm not working on things at my job, I spend my time working on Spotiplex, 
 ##
 
 <img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=1248359790">
-
+<!--START_LASTFM_ARTISTS:{"period": "6month", "rows": 3}-->
+<!--END_LASTFM_ARTISTS-->
 Outside of my side projects and work, I like to read, watch movies, and listen to music. You can check out my goodreads for what I'm reading, and what I've read, but some of my favorites recently have been:
 
 - 🔪 [The Last Murder at the End of The World](https://www.goodreads.com/book/show/136276877-the-last-murder-at-the-end-of-the-world)
