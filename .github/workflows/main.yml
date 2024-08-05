@@ -1,5 +1,5 @@
 name: Last.fm Charts
-
+permissions: write-all
 on:
   workflow_dispatch: # Allow manual triggering of workflow
   schedule:
