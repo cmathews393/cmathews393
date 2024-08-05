@@ -12,6 +12,11 @@ When I'm not working on things at my job, I spend my time working on Spotiplex, 
 
 <img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=1248359790">
 <!--START_LASTFM_ARTISTS:{"period": "6month", "rows": 3}-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 6 Months**
+
+> `285 ▶️` ∙ **[W O L F C L U B](https://www.last.fm/music/W+O+L+F+C+L+U+B)**<br/>
+> `161 ▶️` ∙ **[Chappell Roan](https://www.last.fm/music/Chappell+Roan)**<br/>
+> `123 ▶️` ∙ **[The Midnight](https://www.last.fm/music/The+Midnight)**<br/>
 <!--END_LASTFM_ARTISTS-->
 Outside of my side projects and work, I like to read, watch movies, and listen to music. You can check out my goodreads for what I'm reading, and what I've read, but some of my favorites recently have been:
 
