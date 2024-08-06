@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `38 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
+> `39 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
 > `35 ▶️` ∙ **[Senses](https://www.last.fm/music/Senses)**<br/>
-> `28 ▶️` ∙ **[W O L F C L U B](https://www.last.fm/music/W+O+L+F+C+L+U+B)**<br/>
+> `33 ▶️` ∙ **[W O L F C L U B](https://www.last.fm/music/W+O+L+F+C+L+U+B)**<br/>
 > `22 ▶️` ∙ **[The Japanese House](https://www.last.fm/music/The+Japanese+House)**<br/>
 > `18 ▶️` ∙ **[poutyface](https://www.last.fm/music/poutyface)**<br/>
 <!--END_LASTFM_ARTISTS-->
