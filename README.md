@@ -30,6 +30,6 @@ Top 3 movies:
 > `57 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
 > `35 ▶️` ∙ **[Senses](https://www.last.fm/music/Senses)**<br/>
 > `31 ▶️` ∙ **[RAFFAELLA](https://www.last.fm/music/RAFFAELLA)**<br/>
-> `29 ▶️` ∙ **[W O L F C L U B](https://www.last.fm/music/W+O+L+F+C+L+U+B)**<br/>
+> `27 ▶️` ∙ **[W O L F C L U B](https://www.last.fm/music/W+O+L+F+C+L+U+B)**<br/>
 > `23 ▶️` ∙ **[Venus & the Flytraps](https://www.last.fm/music/Venus+&+the+Flytraps)**<br/>
 <!--END_LASTFM_ARTISTS-->
