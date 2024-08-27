@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `69 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
+> `72 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
 > `40 ▶️` ∙ **[RAFFAELLA](https://www.last.fm/music/RAFFAELLA)**<br/>
-> `36 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
+> `37 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
 > `34 ▶️` ∙ **[Venus & the Flytraps](https://www.last.fm/music/Venus+&+the+Flytraps)**<br/>
-> `31 ▶️` ∙ **[Cayley Spivey](https://www.last.fm/music/Cayley+Spivey)**<br/>
+> `32 ▶️` ∙ **[Cayley Spivey](https://www.last.fm/music/Cayley+Spivey)**<br/>
 <!--END_LASTFM_ARTISTS-->
