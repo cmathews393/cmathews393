@@ -14,7 +14,7 @@ When I'm not working on things at my job, I spend my time working on Spotiplex, 
 
 Outside of my side projects and work, I like to read, watch movies, and listen to music. You can check out my goodreads for what I'm reading, and what I've read, but some of my favorites recently have been:
 
-- 🔪 [The Last Murder at the End of The World](https://www.goodreads.com/book/show/136276877-the-last-murder-at-the-end-of-the-world)
+- 🌲 The God of The Woods[Goodreads](https://www.goodreads.com/book/show/199698485-the-god-of-the-woods)/[Hardcover](https://hardcover.app/books/the-god-of-the-woods-a751dc55-af37-4ef4-a770-bacce531f656/editions/31503244)
 - 🌌 Anything by [LeGuin](https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin)
 - 📝 [Pages For You](https://www.goodreads.com/book/show/124854.Pages_for_You)
 
