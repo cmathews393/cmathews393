@@ -30,6 +30,6 @@ Top 3 movies:
 > `125 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
 > `79 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
 > `72 ▶️` ∙ **[Venus & the Flytraps](https://www.last.fm/music/Venus+&+the+Flytraps)**<br/>
-> `71 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
+> `64 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
 > `52 ▶️` ∙ **[RAFFAELLA](https://www.last.fm/music/RAFFAELLA)**<br/>
 <!--END_LASTFM_ARTISTS-->
