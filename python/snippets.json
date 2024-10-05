@@ -1,0 +1,49 @@
+{
+  "Pydantic - Case Conversion": {
+    "prefix": "pydantic-case-conversion",
+    "body": [
+      "import re",
+      "from pydantic import ConfigDict",
+      "",
+      "camel_to_snake = re.compile(",
+      "\t\"\"\"",
+      "\t(?<=[a-z])      # preceded by lowercase",
+      "\t(?=[A-Z])       # followed by uppercase",
+      "\t\"\"\",",
+      "\tre.X",
+      ")",
+      "",
+      "def to_snake(string: str) -> str:",
+      "\t\"\"\"Convert camelCase string to snake_case.\"\"\"",
+      "\treturn camel_to_snake.sub('_', string).lower()",
+      "",
+      "def to_camel(string: str) -> str:",
+      "\t\"\"\"Convert snake_case string to camelCase.\"\"\"",
+      "\treturn ''.join(word.capitalize() for word in string.split('_'))",
+      "",
+      "model_config = ConfigDict(alias_generator=to_snake)"
+    ],
+    "description": "Pydantic case conversion: camelCase to snake_case and vice versa."
+    // References
+    // https://docs.pydantic.dev/2.0/usage/model_config/ (Pydantic/model specific)
+    // https://stackoverflow.com/questions/1175208/elegant-python-function-to-convert-camelcase-to-snake-case (regex)
+  },
+
+  "HTTPX Try-Except Block": {
+    "prefix": ["httpx-try"],
+    "body": [
+      "url = \"${2:https://example.com}\"",
+      "headers = ${3:{\"Authorization\": \"Bearer token\"}}",
+      "data = ${4:{}},",
+      "",
+      "try:",
+      "\tresponse = httpx.${1|get,post,put,delete|}(url=url, headers=headers, data=data)",
+      "\tresponse.raise_for_status()",
+      "\treturn response.json()",
+      "except (httpx.HTTPStatusError, httpx.HTTPError):",
+      "\tlogger.exception('Request failed with error.')",
+      "\treturn None"
+    ],
+    "description": "A generic HTTPX request with error handling and standard vars."
+  }
+}
