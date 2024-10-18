@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `86 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
-> `67 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
-> `47 ▶️` ∙ **[RAFFAELLA](https://www.last.fm/music/RAFFAELLA)**<br/>
+> `84 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
+> `63 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
+> `45 ▶️` ∙ **[RAFFAELLA](https://www.last.fm/music/RAFFAELLA)**<br/>
 > `41 ▶️` ∙ **[Sir Chloe](https://www.last.fm/music/Sir+Chloe)**<br/>
-> `39 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
+> `34 ▶️` ∙ **[Cayley Spivey](https://www.last.fm/music/Cayley+Spivey)**<br/>
 <!--END_LASTFM_ARTISTS-->
