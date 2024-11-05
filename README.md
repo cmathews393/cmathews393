@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `46 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
+> `45 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
 > `29 ▶️` ∙ **[Japanese Breakfast](https://www.last.fm/music/Japanese+Breakfast)**<br/>
-> `27 ▶️` ∙ **[RAFFAELLA](https://www.last.fm/music/RAFFAELLA)**<br/>
-> `27 ▶️` ∙ **[Sir Chloe](https://www.last.fm/music/Sir+Chloe)**<br/>
-> `24 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
+> `24 ▶️` ∙ **[Chappell Roan](https://www.last.fm/music/Chappell+Roan)**<br/>
+> `24 ▶️` ∙ **[RAFFAELLA](https://www.last.fm/music/RAFFAELLA)**<br/>
+> `24 ▶️` ∙ **[Sir Chloe](https://www.last.fm/music/Sir+Chloe)**<br/>
 <!--END_LASTFM_ARTISTS-->
