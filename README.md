@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `39 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
+> `40 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
 > `26 ▶️` ∙ **[Japanese Breakfast](https://www.last.fm/music/Japanese+Breakfast)**<br/>
 > `23 ▶️` ∙ **[Chappell Roan](https://www.last.fm/music/Chappell+Roan)**<br/>
 > `21 ▶️` ∙ **[Alvvays](https://www.last.fm/music/Alvvays)**<br/>
-> `19 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
+> `20 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
 <!--END_LASTFM_ARTISTS-->
