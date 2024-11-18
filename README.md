@@ -31,5 +31,5 @@ Top 3 movies:
 > `21 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
 > `21 ▶️` ∙ **[Japanese Breakfast](https://www.last.fm/music/Japanese+Breakfast)**<br/>
 > `20 ▶️` ∙ **[Sir Chloe](https://www.last.fm/music/Sir+Chloe)**<br/>
-> `18 ▶️` ∙ **[Chappell Roan](https://www.last.fm/music/Chappell+Roan)**<br/>
+> `18 ▶️` ∙ **[RAFFAELLA](https://www.last.fm/music/RAFFAELLA)**<br/>
 <!--END_LASTFM_ARTISTS-->
