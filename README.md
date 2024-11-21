@@ -28,8 +28,8 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `41 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
+> `27 ▶️` ∙ **[Unloved](https://www.last.fm/music/Unloved)**<br/>
 > `23 ▶️` ∙ **[Japanese Breakfast](https://www.last.fm/music/Japanese+Breakfast)**<br/>
-> `23 ▶️` ∙ **[Unloved](https://www.last.fm/music/Unloved)**<br/>
 > `20 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
 > `19 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
 <!--END_LASTFM_ARTISTS-->
