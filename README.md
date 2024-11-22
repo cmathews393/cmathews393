@@ -31,5 +31,5 @@ Top 3 movies:
 > `31 ▶️` ∙ **[Unloved](https://www.last.fm/music/Unloved)**<br/>
 > `23 ▶️` ∙ **[Japanese Breakfast](https://www.last.fm/music/Japanese+Breakfast)**<br/>
 > `20 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
-> `19 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
+> `20 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
 <!--END_LASTFM_ARTISTS-->
