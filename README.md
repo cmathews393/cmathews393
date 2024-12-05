@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `40 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `39 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
-> `32 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
+> `44 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `43 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
+> `33 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
 > `31 ▶️` ∙ **[Unloved](https://www.last.fm/music/Unloved)**<br/>
-> `23 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `25 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 <!--END_LASTFM_ARTISTS-->
