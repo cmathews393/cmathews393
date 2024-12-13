@@ -30,6 +30,6 @@ Top 3 movies:
 > `61 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `54 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
 > `51 ▶️` ∙ **[Flower Face](https://www.last.fm/music/Flower+Face)**<br/>
-> `45 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
+> `46 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
 > `35 ▶️` ∙ **[Unloved](https://www.last.fm/music/Unloved)**<br/>
 <!--END_LASTFM_ARTISTS-->
