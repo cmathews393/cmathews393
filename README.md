@@ -28,8 +28,8 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `35 ▶️` ∙ **[Candi Carpenter](https://www.last.fm/music/Candi+Carpenter)**<br/>
-> `27 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `23 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
-> `23 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
+> `26 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `23 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
+> `22 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
+> `22 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 <!--END_LASTFM_ARTISTS-->
