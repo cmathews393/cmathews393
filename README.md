@@ -30,6 +30,6 @@ Top 3 movies:
 > `45 ▶️` ∙ **[Candi Carpenter](https://www.last.fm/music/Candi+Carpenter)**<br/>
 > `27 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `26 ▶️` ∙ **[Tilly Louise](https://www.last.fm/music/Tilly+Louise)**<br/>
+> `25 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `22 ▶️` ∙ **[AHLI](https://www.last.fm/music/AHLI)**<br/>
-> `22 ▶️` ∙ **[Cayley Spivey](https://www.last.fm/music/Cayley+Spivey)**<br/>
 <!--END_LASTFM_ARTISTS-->
