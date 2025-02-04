@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `57 ▶️` ∙ **[Candi Carpenter](https://www.last.fm/music/Candi+Carpenter)**<br/>
 > `55 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `42 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
 > `42 ▶️` ∙ **[Phildel](https://www.last.fm/music/Phildel)**<br/>
-> `40 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `40 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
+> `39 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 <!--END_LASTFM_ARTISTS-->
