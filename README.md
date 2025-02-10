@@ -31,5 +31,5 @@ Top 3 movies:
 > `62 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
 > `62 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `46 ▶️` ∙ **[Candi Carpenter](https://www.last.fm/music/Candi+Carpenter)**<br/>
-> `44 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
+> `45 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
 <!--END_LASTFM_ARTISTS-->
