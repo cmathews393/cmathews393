@@ -30,6 +30,6 @@ Top 3 movies:
 > `135 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `100 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `86 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
-> `64 ▶️` ∙ **[Rabbitology](https://www.last.fm/music/Rabbitology)**<br/>
+> `65 ▶️` ∙ **[Rabbitology](https://www.last.fm/music/Rabbitology)**<br/>
 > `61 ▶️` ∙ **[Flower Face](https://www.last.fm/music/Flower+Face)**<br/>
 <!--END_LASTFM_ARTISTS-->
