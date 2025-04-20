@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `62 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `52 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `42 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
-> `42 ▶️` ∙ **[Flower Face](https://www.last.fm/music/Flower+Face)**<br/>
-> `41 ▶️` ∙ **[Sofia Isella](https://www.last.fm/music/Sofia+Isella)**<br/>
+> `48 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
+> `47 ▶️` ∙ **[Flower Face](https://www.last.fm/music/Flower+Face)**<br/>
+> `45 ▶️` ∙ **[Sofia Isella](https://www.last.fm/music/Sofia+Isella)**<br/>
 <!--END_LASTFM_ARTISTS-->
