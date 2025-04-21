@@ -31,5 +31,5 @@ Top 3 movies:
 > `55 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `51 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
 > `49 ▶️` ∙ **[Sofia Isella](https://www.last.fm/music/Sofia+Isella)**<br/>
-> `46 ▶️` ∙ **[Flower Face](https://www.last.fm/music/Flower+Face)**<br/>
+> `45 ▶️` ∙ **[Flower Face](https://www.last.fm/music/Flower+Face)**<br/>
 <!--END_LASTFM_ARTISTS-->
