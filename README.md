@@ -31,5 +31,5 @@ Top 3 movies:
 > `27 ▶️` ∙ **[Sofia Isella](https://www.last.fm/music/Sofia+Isella)**<br/>
 > `26 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
 > `21 ▶️` ∙ **[Smokey Brights](https://www.last.fm/music/Smokey+Brights)**<br/>
-> `19 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
+> `18 ▶️` ∙ **[Ha Vay](https://www.last.fm/music/Ha+Vay)**<br/>
 <!--END_LASTFM_ARTISTS-->
