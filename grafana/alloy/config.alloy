@@ -168,21 +168,6 @@ discovery.relabel "journal_metadata" {
 	}
 }
 
-// Windows event log enrichment
-discovery.relabel "windows_events_relabel" {
-	targets = []
-
-	rule {
-		source_labels = ["level"]
-		target_label  = "severity"
-	}
-
-	rule {
-		source_labels = ["hostname"]
-		target_label  = "host"
-	}
-}
-
 //===== DEBUGGING =====
 
 livedebugging {
