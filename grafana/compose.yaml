@@ -1,0 +1,56 @@
+version: '3.9'
+
+networks:
+  lgtm-network:
+    driver: bridge
+
+services:
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000" # Expose Grafana on Docker host's IP at port 3000
+    networks:
+      - lgtm-network
+    volumes:
+      - /home/grafana/lgtm-data/grafana:/var/lib/grafana
+      - /home/grafana/lgtm-configs/grafana:/etc/grafana:ro # Mount Grafana configuration
+
+    depends_on:
+      - victoriametrics
+      - loki
+
+  victoriametrics:
+      image: victoriametrics/victoria-metrics:v1.117.0
+      container_name: v_metrics
+      ports:
+        - 8428:8428
+        - 8089:8089
+        - 8089:8089/udp
+        - 2003:2003
+        - 2003:2003/udp
+        - 4242:4242
+      volumes:
+        - /home/grafana/lgtm-data/victoriametrics:/storage
+      command:
+        - "--storageDataPath=/storage"
+        - "--graphiteListenAddr=:2003"
+        - "--opentsdbListenAddr=:4242"
+        - "--httpListenAddr=:8428"
+        - "--influxListenAddr=:8089"
+        - "--vmalert.proxyURL=http://vmalert:8880"
+      restart: always
+
+  loki:
+    image: grafana/loki:latest
+    container_name: loki
+    ports:
+      - "3100:3100"
+    networks:
+      - lgtm-network
+    volumes:
+      - /home/grafana/lgtm-data/loki:/data
+      - /home/grafana/lgtm-configs/loki:/etc/loki:ro
+    command: -config.file=/etc/loki/loki.yaml
+    environment:
+      - LOKI_LOG_LEVEL=info

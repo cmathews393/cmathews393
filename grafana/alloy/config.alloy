@@ -1,0 +1,75 @@
+prometheus.exporter.unix "self" {
+	disable_collectors = ["ipvs", "btrfs", "infiniband", "xfs", "zfs"]
+	enable_collectors  = ["meminfo"]
+
+	filesystem {
+		fs_types_exclude     = "^(autofs|binfmt_misc|bpf|cgroup2?|configfs|debugfs|devpts|devtmpfs|tmpfs|fusectl|hugetlbfs|iso9660|mqueue|nsfs|overlay|proc|procfs|pstore|rpc_pipefs|securityfs|selinuxfs|squashfs|sysfs|tracefs)$"
+		mount_points_exclude = "^/(dev|proc|run/credentials/.+|sys|var/lib/docker/.+)($|/)"
+		mount_timeout        = "5s"
+	}
+
+	netclass {
+		ignored_devices = "^(veth.*|cali.*|[a-f0-9]{15})$"
+	}
+
+	netdev {
+		device_exclude = "^(veth.*|cali.*|[a-f0-9]{15})$"
+	}
+}
+
+prometheus.remote_write "default" {
+	endpoint {
+		send_native_histograms = true
+		url                    = "http://<DOCKER_IP>:8428/prometheus/api/v1/write"
+	}
+}
+
+prometheus.scrape "self" {
+	scrape_interval = "15s"
+	targets         = prometheus.exporter.unix.self.targets
+	extra_metrics   = true
+	forward_to      = [
+		prometheus.remote_write.default.receiver,
+	]
+}
+
+loki.write "local" {
+	endpoint {
+		url       = "http://<DOCKER_IP>:3100/loki/api/v1/push"
+		tenant_id = "fake"
+	}
+}
+
+loki.source.journal "logs_integrations_integrations_node_exporter_journal_scrape" {
+	max_age       = "24h0m0s"
+	relabel_rules = discovery.relabel.logs_integrations_integrations_node_exporter_journal_scrape.rules
+	forward_to    = [loki.write.local.receiver]
+}
+
+discovery.relabel "logs_integrations_integrations_node_exporter_journal_scrape" {
+	targets = []
+
+	rule {
+		source_labels = ["__journal__systemd_unit"]
+		target_label  = "unit"
+	}
+
+	rule {
+		source_labels = ["__journal__boot_id"]
+		target_label  = "boot_id"
+	}
+
+	rule {
+		source_labels = ["__journal__transport"]
+		target_label  = "transport"
+	}
+
+	rule {
+		source_labels = ["__journal_priority_keyword"]
+		target_label  = "level"
+	}
+}
+
+livedebugging {
+	enabled = true
+}
