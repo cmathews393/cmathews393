@@ -80,17 +80,17 @@ loki.source.journal "linux_journal" {
 	forward_to    = [loki.write.loki_backend.receiver]
 }
 
-// Linux log files - Enhanced with categorization
+// Linux log files - Path definitions only
 local.file_match "linux_log_files" {
 	path_targets = [
 		{__path__ = "/var/log/*.log"},
 		{__path__ = "/var/log/syslog"},
 		{__path__ = "/var/log/auth.log"},
 		{__path__ = "/var/log/kern.log"},
-		{__path__ = "/var/log/apache2/*.log", labels = {service = "apache"}},
-		{__path__ = "/var/log/nginx/*.log", labels = {service = "nginx"}},
-		{__path__ = "/var/log/mysql/*.log", labels = {service = "mysql"}},
-		{__path__ = "/var/log/postgresql/*.log", labels = {service = "postgresql"}},
+		{__path__ = "/var/log/apache2/*.log"},
+		{__path__ = "/var/log/nginx/*.log"},
+		{__path__ = "/var/log/mysql/*.log"},
+		{__path__ = "/var/log/postgresql/*.log"},
 	]
 }
 
@@ -194,12 +194,62 @@ loki.relabel "linux_logs_metadata" {
 		target_label  = "log_group"
 	}
 
-	// Set default log_group for files directly in /var/log
+	// Set service labels based on path patterns
 	rule {
-		source_labels = ["log_group"]
-		regex         = ""
+		source_labels = ["__path__"]
+		regex         = "/var/log/syslog"
+		replacement   = "syslog"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/auth\\.log"
+		replacement   = "authlog"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/kern\\.log"
+		replacement   = "kernellog"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/apache2/.*\\.log"
+		replacement   = "apache"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/nginx/.*\\.log"
+		replacement   = "nginx"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/mysql/.*\\.log"
+		replacement   = "mysql"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/postgresql/.*\\.log"
+		replacement   = "postgresql"
+		target_label  = "service"
+	}
+
+	// Default service label for other *.log files in /var/log
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/[^/]*\\.log"
 		replacement   = "system"
-		target_label  = "log_group"
+		target_label  = "service"
 	}
 }
 
