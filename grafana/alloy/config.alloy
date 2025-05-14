@@ -81,13 +81,17 @@ loki.source.journal "linux_journal" {
 }
 
 // Linux log files 
+
+local.file_match "linux_log_files" {
+	path_targets = [
+		{__path__ = "/var/log/*.log"},
+	]
+}
+
 loki.source.file "linux_log_files" {
-	path                   = "/var/log/*.log"
-	labels                 = {"app" = "linux_logs"}
-	forward_to             = [loki.write.loki_backend.receiver]
-	poll_interval          = "5s"
-	max_age                = "24h0m0s"
-	use_incoming_timestamp = true
+	targets = local.file_match.linux_log_files.targets
+
+	forward_to = [loki.write.loki_backend.receiver]
 }
 
 // Windows logs - Application
