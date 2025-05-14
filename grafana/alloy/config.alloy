@@ -80,18 +80,23 @@ loki.source.journal "linux_journal" {
 	forward_to    = [loki.write.loki_backend.receiver]
 }
 
-// Linux log files 
-
+// Linux log files - Enhanced with categorization
 local.file_match "linux_log_files" {
 	path_targets = [
 		{__path__ = "/var/log/*.log"},
+		{__path__ = "/var/log/syslog"},
+		{__path__ = "/var/log/auth.log"},
+		{__path__ = "/var/log/kern.log"},
+		{__path__ = "/var/log/apache2/*.log", labels = {service = "apache"}},
+		{__path__ = "/var/log/nginx/*.log", labels = {service = "nginx"}},
+		{__path__ = "/var/log/mysql/*.log", labels = {service = "mysql"}},
+		{__path__ = "/var/log/postgresql/*.log", labels = {service = "postgresql"}},
 	]
 }
 
 loki.source.file "linux_log_files" {
-	targets = local.file_match.linux_log_files.targets
-
-	forward_to = [loki.write.loki_backend.receiver]
+	targets    = local.file_match.linux_log_files.targets
+	forward_to = [loki.relabel.linux_logs_metadata.receiver]
 }
 
 // Windows logs - Application
@@ -169,6 +174,32 @@ discovery.relabel "journal_metadata" {
 	rule {
 		source_labels = ["__journal_priority_keyword"]
 		target_label  = "level"
+	}
+}
+
+// Add relabeling rules for Linux log files
+loki.relabel "linux_logs_metadata" {
+	forward_to = [loki.write.loki_backend.receiver]
+	// Extract filename as a label
+	rule {
+		source_labels = ["__path__"]
+		regex         = ".*/([^/]+)$"
+		target_label  = "filename"
+	}
+
+	// Categorize logs by directory
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/([^/]+)/.*"
+		target_label  = "log_group"
+	}
+
+	// Set default log_group for files directly in /var/log
+	rule {
+		source_labels = ["log_group"]
+		regex         = ""
+		replacement   = "system"
+		target_label  = "log_group"
 	}
 }
 
