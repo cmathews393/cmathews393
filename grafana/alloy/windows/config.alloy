@@ -1,0 +1,248 @@
+//===== EXPORTERS =====
+
+// Unix/Linux metrics exporter
+prometheus.exporter.unix "local_node" {
+	disable_collectors = ["ipvs", "btrfs", "infiniband", "xfs", "zfs"]
+	enable_collectors  = ["meminfo"]
+
+	filesystem {
+		fs_types_exclude     = "^(autofs|binfmt_misc|bpf|cgroup2?|configfs|debugfs|devpts|devtmpfs|tmpfs|fusectl|hugetlbfs|iso9660|mqueue|nsfs|overlay|proc|procfs|pstore|rpc_pipefs|securityfs|selinuxfs|squashfs|sysfs|tracefs)$"
+		mount_points_exclude = "^/(dev|proc|run/credentials/.+|sys|var/lib/docker/.+)($|/)"
+		mount_timeout        = "5s"
+	}
+
+	netclass {
+		ignored_devices = "^(veth.*|cali.*|[a-f0-9]{15})$"
+	}
+
+	netdev {
+		device_exclude = "^(veth.*|cali.*|[a-f0-9]{15})$"
+	}
+}
+
+// Windows metrics exporter
+prometheus.exporter.windows "remote_windows" {
+	enabled_collectors = [
+		"cpu",
+		"cs",
+		"logical_disk",
+		"memory",
+		"net",
+		"os",
+		"service",
+		"system",
+		"tcp",
+	]
+}
+
+//===== METRICS COLLECTION =====
+
+// Remote write endpoint configuration
+prometheus.remote_write "victoriametrics" {
+	endpoint {
+		send_native_histograms = true
+		url                    = "http://<DOCKER_IP>:8428/prometheus/api/v1/write"
+	}
+}
+
+// Scrape configurations
+prometheus.scrape "local_metrics" {
+	scrape_interval = "15s"
+	targets         = prometheus.exporter.unix.local_node.targets
+	extra_metrics   = true
+	forward_to      = [
+		prometheus.remote_write.victoriametrics.receiver,
+	]
+}
+
+prometheus.scrape "windows_metrics" {
+	targets         = prometheus.exporter.windows.remote_windows.targets
+	scrape_interval = "15s"
+	forward_to      = [
+		prometheus.remote_write.victoriametrics.receiver,
+	]
+}
+
+//===== LOGS COLLECTION =====
+
+// Logs destination
+loki.write "loki_backend" {
+	endpoint {
+		url       = "http://<DOCKER_IP>:3100/loki/api/v1/push"
+		tenant_id = "fake"
+	}
+}
+
+// Linux system logs
+loki.source.journal "linux_journal" {
+	max_age       = "24h0m0s"
+	relabel_rules = discovery.relabel.journal_metadata.rules
+	forward_to    = [loki.write.loki_backend.receiver]
+}
+
+// Linux log files - Path definitions only
+local.file_match "linux_log_files" {
+	path_targets = [
+		{__path__ = "/var/log/*.log"},
+		{__path__ = "/var/log/syslog"},
+		{__path__ = "/var/log/auth.log"},
+		{__path__ = "/var/log/kern.log"},
+		{__path__ = "/var/log/apache2/*.log"},
+		{__path__ = "/var/log/nginx/*.log"},
+		{__path__ = "/var/log/mysql/*.log"},
+		{__path__ = "/var/log/postgresql/*.log"},
+	]
+}
+
+loki.source.file "linux_log_files" {
+	targets    = local.file_match.linux_log_files.targets
+	forward_to = [loki.relabel.linux_logs_metadata.receiver]
+}
+
+// Windows logs - Application
+loki.source.windowsevent "windows_application_logs" {
+	eventlog_name          = "Application"
+	use_incoming_timestamp = true
+	forward_to             = [loki.write.loki_backend.receiver]
+	poll_interval          = "3s"
+	xpath_query            = "*"
+	labels                 = {
+		job         = "windows_eventlog",
+		source_type = "application",
+	}
+}
+
+// Windows logs - System
+loki.source.windowsevent "windows_system_logs" {
+	eventlog_name          = "System"
+	use_incoming_timestamp = true
+	forward_to             = [loki.write.loki_backend.receiver]
+	poll_interval          = "3s"
+	xpath_query            = "*"
+	labels                 = {
+		job         = "windows_eventlog",
+		source_type = "system",
+	}
+}
+
+// Windows logs - Security
+loki.source.windowsevent "windows_security_logs" {
+	eventlog_name          = "Security"
+	use_incoming_timestamp = true
+	forward_to             = [loki.write.loki_backend.receiver]
+	poll_interval          = "5s"
+	xpath_query            = "*"
+	labels                 = {
+		job         = "windows_eventlog",
+		source_type = "security",
+	}
+}
+
+//===== RELABELING =====
+
+// Journal log metadata extraction
+discovery.relabel "journal_metadata" {
+	targets = []
+
+	rule {
+		source_labels = ["__journal__systemd_unit"]
+		target_label  = "unit"
+	}
+
+	rule {
+		source_labels = ["__journal__boot_id"]
+		target_label  = "boot_id"
+	}
+
+	rule {
+		source_labels = ["__journal__transport"]
+		target_label  = "transport"
+	}
+
+	rule {
+		source_labels = ["__journal_priority_keyword"]
+		target_label  = "level"
+	}
+}
+
+// Add relabeling rules for Linux log files
+loki.relabel "linux_logs_metadata" {
+	forward_to = [loki.write.loki_backend.receiver]
+	// Extract filename as a label
+	rule {
+		source_labels = ["__path__"]
+		regex         = ".*/([^/]+)$"
+		target_label  = "filename"
+	}
+
+	// Categorize logs by directory
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/([^/]+)/.*"
+		target_label  = "log_group"
+	}
+
+	// Set service labels based on path patterns
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/syslog"
+		replacement   = "syslog"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/auth\\.log"
+		replacement   = "authlog"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/kern\\.log"
+		replacement   = "kernellog"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/apache2/.*\\.log"
+		replacement   = "apache"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/nginx/.*\\.log"
+		replacement   = "nginx"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/mysql/.*\\.log"
+		replacement   = "mysql"
+		target_label  = "service"
+	}
+
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/postgresql/.*\\.log"
+		replacement   = "postgresql"
+		target_label  = "service"
+	}
+
+	// Default service label for other *.log files in /var/log
+	rule {
+		source_labels = ["__path__"]
+		regex         = "/var/log/[^/]*\\.log"
+		replacement   = "system"
+		target_label  = "service"
+	}
+}
+
+//===== DEBUGGING =====
+
+livedebugging {
+	enabled = true
+}
