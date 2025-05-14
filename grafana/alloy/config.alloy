@@ -1,4 +1,7 @@
-prometheus.exporter.unix "self" {
+//===== EXPORTERS =====
+
+// Unix/Linux metrics exporter
+prometheus.exporter.unix "local_node" {
 	disable_collectors = ["ipvs", "btrfs", "infiniband", "xfs", "zfs"]
 	enable_collectors  = ["meminfo"]
 
@@ -17,7 +20,8 @@ prometheus.exporter.unix "self" {
 	}
 }
 
-prometheus.exporter.windows "windows" {
+// Windows metrics exporter
+prometheus.exporter.windows "remote_windows" {
 	enabled_collectors = [
 		"cpu",
 		"cs",
@@ -31,87 +35,106 @@ prometheus.exporter.windows "windows" {
 	]
 }
 
-prometheus.remote_write "default" {
+//===== METRICS COLLECTION =====
+
+// Remote write endpoint configuration
+prometheus.remote_write "victoriametrics" {
 	endpoint {
 		send_native_histograms = true
 		url                    = "http://<DOCKER_IP>:8428/prometheus/api/v1/write"
 	}
 }
 
-prometheus.scrape "self" {
+// Scrape configurations
+prometheus.scrape "local_metrics" {
 	scrape_interval = "15s"
-	targets         = prometheus.exporter.unix.self.targets
+	targets         = prometheus.exporter.unix.local_node.targets
 	extra_metrics   = true
 	forward_to      = [
-		prometheus.remote_write.default.receiver,
+		prometheus.remote_write.victoriametrics.receiver,
 	]
 }
 
-prometheus.scrape "windows" {
-	targets         = prometheus.exporter.windows.windows.targets
+prometheus.scrape "windows_metrics" {
+	targets         = prometheus.exporter.windows.remote_windows.targets
 	scrape_interval = "15s"
 	forward_to      = [
-		prometheus.remote_write.default.receiver,
+		prometheus.remote_write.victoriametrics.receiver,
 	]
 }
 
-loki.write "local" {
+//===== LOGS COLLECTION =====
+
+// Logs destination
+loki.write "loki_backend" {
 	endpoint {
 		url       = "http://<DOCKER_IP>:3100/loki/api/v1/push"
 		tenant_id = "fake"
 	}
 }
 
-loki.source.journal "logs_integrations_integrations_node_exporter_journal_scrape" {
+// Linux system logs
+loki.source.journal "linux_journal" {
 	max_age       = "24h0m0s"
-	relabel_rules = discovery.relabel.logs_integrations_integrations_node_exporter_journal_scrape.rules
-	forward_to    = [loki.write.local.receiver]
+	relabel_rules = discovery.relabel.journal_metadata.rules
+	forward_to    = [loki.write.loki_backend.receiver]
 }
 
-loki.source.windowsevent "windows_events" {
+// Windows logs - Application
+loki.source.windowsevent "windows_application_logs" {
 	eventlog_name          = "Application"
 	use_incoming_timestamp = true
-	forward_to             = [loki.write.local.receiver]
-
-	poll_interval = "3s"
-	xpath_query   = "*" // Collect all events, customize as needed
-
-	// Add additional fields for better log organization
-	labels = {
+	forward_to             = [loki.write.loki_backend.receiver]
+	poll_interval          = "3s"
+	xpath_query            = "*"
+	labels                 = {
 		job         = "windows_eventlog",
 		source_type = "application",
 	}
 }
 
-loki.source.windowsevent "windows_system_events" {
+// Windows logs - System
+loki.source.windowsevent "windows_system_logs" {
 	eventlog_name          = "System"
 	use_incoming_timestamp = true
-	forward_to             = [loki.write.local.receiver]
-
-	poll_interval = "3s"
-	xpath_query   = "*" // Collect all events, customize as needed
-
-	labels = {
+	forward_to             = [loki.write.loki_backend.receiver]
+	poll_interval          = "3s"
+	xpath_query            = "*"
+	labels                 = {
 		job         = "windows_eventlog",
 		source_type = "system",
 	}
 }
 
-loki.source.windowsevent "windows_security_events" {
+// Windows logs - Security
+loki.source.windowsevent "windows_security_logs" {
 	eventlog_name          = "Security"
 	use_incoming_timestamp = true
-	forward_to             = [loki.write.local.receiver]
-
-	poll_interval = "5s"
-	xpath_query   = "*" // Consider restricting with more specific XPath queries
-
-	labels = {
+	forward_to             = [loki.write.loki_backend.receiver]
+	poll_interval          = "5s"
+	xpath_query            = "*"
+	labels                 = {
 		job         = "windows_eventlog",
 		source_type = "security",
 	}
 }
 
-discovery.relabel "logs_integrations_integrations_node_exporter_journal_scrape" {
+// Docker container logs
+discovery.docker "linux" {
+	host = "unix:///var/run/docker.sock"
+}
+
+loki.source.docker "container_logs" {
+	host       = "unix:///var/run/docker.sock"
+	targets    = discovery.docker.linux.targets
+	labels     = {"app" = "docker"}
+	forward_to = [loki.write.loki_backend.receiver]
+}
+
+//===== RELABELING =====
+
+// Journal log metadata extraction
+discovery.relabel "journal_metadata" {
 	targets = []
 
 	rule {
@@ -135,6 +158,7 @@ discovery.relabel "logs_integrations_integrations_node_exporter_journal_scrape" 
 	}
 }
 
+// Windows event log enrichment
 discovery.relabel "windows_events_relabel" {
 	targets = []
 
@@ -148,6 +172,8 @@ discovery.relabel "windows_events_relabel" {
 		target_label  = "host"
 	}
 }
+
+//===== DEBUGGING =====
 
 livedebugging {
 	enabled = true
