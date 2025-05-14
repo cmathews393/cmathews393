@@ -17,6 +17,20 @@ prometheus.exporter.unix "self" {
 	}
 }
 
+prometheus.exporter.windows "windows" {
+	enabled_collectors = [
+		"cpu",
+		"cs",
+		"logical_disk",
+		"memory",
+		"net",
+		"os",
+		"service",
+		"system",
+		"tcp",
+	]
+}
+
 prometheus.remote_write "default" {
 	endpoint {
 		send_native_histograms = true
@@ -33,6 +47,14 @@ prometheus.scrape "self" {
 	]
 }
 
+prometheus.scrape "windows" {
+	targets         = prometheus.exporter.windows.windows.targets
+	scrape_interval = "15s"
+	forward_to      = [
+		prometheus.remote_write.default.receiver,
+	]
+}
+
 loki.write "local" {
 	endpoint {
 		url       = "http://<DOCKER_IP>:3100/loki/api/v1/push"
@@ -44,6 +66,49 @@ loki.source.journal "logs_integrations_integrations_node_exporter_journal_scrape
 	max_age       = "24h0m0s"
 	relabel_rules = discovery.relabel.logs_integrations_integrations_node_exporter_journal_scrape.rules
 	forward_to    = [loki.write.local.receiver]
+}
+
+loki.source.windowsevent "windows_events" {
+	eventlog_name          = "Application"
+	use_incoming_timestamp = true
+	forward_to             = [loki.write.local.receiver]
+
+	poll_interval = "3s"
+	xpath_query   = "*" // Collect all events, customize as needed
+
+	// Add additional fields for better log organization
+	labels = {
+		job         = "windows_eventlog",
+		source_type = "application",
+	}
+}
+
+loki.source.windowsevent "windows_system_events" {
+	eventlog_name          = "System"
+	use_incoming_timestamp = true
+	forward_to             = [loki.write.local.receiver]
+
+	poll_interval = "3s"
+	xpath_query   = "*" // Collect all events, customize as needed
+
+	labels = {
+		job         = "windows_eventlog",
+		source_type = "system",
+	}
+}
+
+loki.source.windowsevent "windows_security_events" {
+	eventlog_name          = "Security"
+	use_incoming_timestamp = true
+	forward_to             = [loki.write.local.receiver]
+
+	poll_interval = "5s"
+	xpath_query   = "*" // Consider restricting with more specific XPath queries
+
+	labels = {
+		job         = "windows_eventlog",
+		source_type = "security",
+	}
 }
 
 discovery.relabel "logs_integrations_integrations_node_exporter_journal_scrape" {
@@ -67,6 +132,20 @@ discovery.relabel "logs_integrations_integrations_node_exporter_journal_scrape" 
 	rule {
 		source_labels = ["__journal_priority_keyword"]
 		target_label  = "level"
+	}
+}
+
+discovery.relabel "windows_events_relabel" {
+	targets = []
+
+	rule {
+		source_labels = ["level"]
+		target_label  = "severity"
+	}
+
+	rule {
+		source_labels = ["hostname"]
+		target_label  = "host"
 	}
 }
 
