@@ -80,6 +80,16 @@ loki.source.journal "linux_journal" {
 	forward_to    = [loki.write.loki_backend.receiver]
 }
 
+// Linux log files 
+loki.source.file "linux_log_files" {
+	path                   = "/var/log/*.log"
+	labels                 = {"app" = "linux_logs"}
+	forward_to             = [loki.write.loki_backend.receiver]
+	poll_interval          = "5s"
+	max_age                = "24h0m0s"
+	use_incoming_timestamp = true
+}
+
 // Windows logs - Application
 loki.source.windowsevent "windows_application_logs" {
 	eventlog_name          = "Application"
