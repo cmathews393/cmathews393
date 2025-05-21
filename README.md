@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `44 ▶️` ∙ **[Riverside](https://www.last.fm/music/Riverside)**<br/>
 > `29 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `22 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
+> `22 ▶️` ∙ **[Phildel](https://www.last.fm/music/Phildel)**<br/>
 > `21 ▶️` ∙ **[Smokey Brights](https://www.last.fm/music/Smokey+Brights)**<br/>
-> `20 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
-> `20 ▶️` ∙ **[Phildel](https://www.last.fm/music/Phildel)**<br/>
 <!--END_LASTFM_ARTISTS-->
