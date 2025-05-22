@@ -28,8 +28,8 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `44 ▶️` ∙ **[Riverside](https://www.last.fm/music/Riverside)**<br/>
-> `29 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `28 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `22 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
-> `22 ▶️` ∙ **[Phildel](https://www.last.fm/music/Phildel)**<br/>
+> `21 ▶️` ∙ **[Phildel](https://www.last.fm/music/Phildel)**<br/>
 > `21 ▶️` ∙ **[Smokey Brights](https://www.last.fm/music/Smokey+Brights)**<br/>
 <!--END_LASTFM_ARTISTS-->
