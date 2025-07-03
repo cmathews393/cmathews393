@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `145 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `107 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `62 ▶️` ∙ **[Sofia Isella](https://www.last.fm/music/Sofia+Isella)**<br/>
+> `63 ▶️` ∙ **[Sofia Isella](https://www.last.fm/music/Sofia+Isella)**<br/>
 > `48 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
 > `42 ▶️` ∙ **[Cat Pierce](https://www.last.fm/music/Cat+Pierce)**<br/>
 <!--END_LASTFM_ARTISTS-->
