@@ -31,5 +31,5 @@ Top 3 movies:
 > `90 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `51 ▶️` ∙ **[Sofia Isella](https://www.last.fm/music/Sofia+Isella)**<br/>
 > `43 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
-> `35 ▶️` ∙ **[Cat Pierce](https://www.last.fm/music/Cat+Pierce)**<br/>
+> `36 ▶️` ∙ **[Cat Pierce](https://www.last.fm/music/Cat+Pierce)**<br/>
 <!--END_LASTFM_ARTISTS-->
