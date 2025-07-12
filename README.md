@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `116 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `81 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `47 ▶️` ∙ **[Sofia Isella](https://www.last.fm/music/Sofia+Isella)**<br/>
-> `39 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
-> `34 ▶️` ∙ **[Cat Pierce](https://www.last.fm/music/Cat+Pierce)**<br/>
+> `103 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `78 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `46 ▶️` ∙ **[Sofia Isella](https://www.last.fm/music/Sofia+Isella)**<br/>
+> `37 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
+> `33 ▶️` ∙ **[Cloudy June](https://www.last.fm/music/Cloudy+June)**<br/>
 <!--END_LASTFM_ARTISTS-->
