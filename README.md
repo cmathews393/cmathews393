@@ -31,5 +31,5 @@ Top 3 movies:
 > `43 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `33 ▶️` ∙ **[Cloudy June](https://www.last.fm/music/Cloudy+June)**<br/>
 > `26 ▶️` ∙ **[Emlyn](https://www.last.fm/music/Emlyn)**<br/>
-> `24 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
+> `25 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 <!--END_LASTFM_ARTISTS-->
