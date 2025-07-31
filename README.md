@@ -30,6 +30,6 @@ Top 3 movies:
 > `46 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `43 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `33 ▶️` ∙ **[Cloudy June](https://www.last.fm/music/Cloudy+June)**<br/>
+> `27 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 > `26 ▶️` ∙ **[Emlyn](https://www.last.fm/music/Emlyn)**<br/>
-> `25 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 <!--END_LASTFM_ARTISTS-->
