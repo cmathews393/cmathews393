@@ -28,8 +28,8 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `40 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
-> `33 ▶️` ∙ **[Cloudy June](https://www.last.fm/music/Cloudy+June)**<br/>
 > `31 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `29 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `26 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
+> `21 ▶️` ∙ **[HUNTR/X](https://www.last.fm/music/HUNTR%2FX)**<br/>
 <!--END_LASTFM_ARTISTS-->
