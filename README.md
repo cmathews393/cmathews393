@@ -30,6 +30,6 @@ Top 3 movies:
 > `42 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 > `31 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `29 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `26 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
-> `24 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
+> `28 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
+> `27 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
 <!--END_LASTFM_ARTISTS-->
