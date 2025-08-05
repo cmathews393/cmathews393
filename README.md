@@ -31,5 +31,5 @@ Top 3 movies:
 > `31 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `29 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `26 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
-> `23 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
+> `24 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
 <!--END_LASTFM_ARTISTS-->
