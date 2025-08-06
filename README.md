@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `42 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
-> `31 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `29 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `28 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
-> `27 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
+> `45 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
+> `38 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
+> `37 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
+> `32 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
+> `31 ▶️` ∙ **[i-dle](https://www.last.fm/music/i-dle)**<br/>
 <!--END_LASTFM_ARTISTS-->
