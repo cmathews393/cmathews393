@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `55 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 > `50 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
-> `42 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
-> `41 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
-> `38 ▶️` ∙ **[i-dle](https://www.last.fm/music/i-dle)**<br/>
+> `46 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
+> `43 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
+> `40 ▶️` ∙ **[i-dle](https://www.last.fm/music/i-dle)**<br/>
 <!--END_LASTFM_ARTISTS-->
