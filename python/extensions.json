@@ -1,1 +1,24 @@
 
+{
+    "recommendations": [
+        "adpyke.codesnap",
+        "ms-azuretools.vscode-containers",
+        "ms-azuretools.vscode-docker",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "cweijan.dbclient-jdbc",
+        "docker.docker",
+        "mhutchie.git-graph",
+        "github.vscode-github-actions",
+        "github.vscode-pull-request-github",
+        "oderwat.indent-rainbow",
+        "ameenahsanma.poetry-monorepo",
+        "cweijan.vscode-postgresql-client2",
+        "esbenp.prettier-vscode",
+        "zeshuaro.vscode-python-poetry",
+        "mechatroner.rainbow-csv",
+        "vscode-icons-team.vscode-icons",
+        "charliermarsh.ruff",
+        
+    ]
+}
