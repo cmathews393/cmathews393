@@ -28,8 +28,8 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `101 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
-> `55 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
-> `52 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
-> `48 ▶️` ∙ **[ENHYPEN](https://www.last.fm/music/ENHYPEN)**<br/>
-> `43 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
+> `59 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
+> `53 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
+> `47 ▶️` ∙ **[ENHYPEN](https://www.last.fm/music/ENHYPEN)**<br/>
+> `46 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 <!--END_LASTFM_ARTISTS-->
