@@ -31,5 +31,5 @@ Top 3 movies:
 > `61 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
 > `50 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
 > `47 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
-> `44 ▶️` ∙ **[i-dle](https://www.last.fm/music/i-dle)**<br/>
+> `45 ▶️` ∙ **[i-dle](https://www.last.fm/music/i-dle)**<br/>
 <!--END_LASTFM_ARTISTS-->
