@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `74 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
 > `50 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
+> `43 ▶️` ∙ **[aespa](https://www.last.fm/music/aespa)**<br/>
 > `43 ▶️` ∙ **[i-dle](https://www.last.fm/music/i-dle)**<br/>
-> `42 ▶️` ∙ **[aespa](https://www.last.fm/music/aespa)**<br/>
 > `42 ▶️` ∙ **[BLACKPINK](https://www.last.fm/music/BLACKPINK)**<br/>
 <!--END_LASTFM_ARTISTS-->
