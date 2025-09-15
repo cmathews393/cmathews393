@@ -31,5 +31,5 @@ Top 3 movies:
 > `49 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
 > `44 ▶️` ∙ **[i-dle](https://www.last.fm/music/i-dle)**<br/>
 > `42 ▶️` ∙ **[aespa](https://www.last.fm/music/aespa)**<br/>
-> `41 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
+> `42 ▶️` ∙ **[TWICE](https://www.last.fm/music/TWICE)**<br/>
 <!--END_LASTFM_ARTISTS-->
