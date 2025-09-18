@@ -31,5 +31,5 @@ Top 3 movies:
 > `65 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
 > `59 ▶️` ∙ **[marshall4](https://www.last.fm/music/marshall4)**<br/>
 > `49 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
-> `42 ▶️` ∙ **[i-dle](https://www.last.fm/music/i-dle)**<br/>
+> `41 ▶️` ∙ **[i-dle](https://www.last.fm/music/i-dle)**<br/>
 <!--END_LASTFM_ARTISTS-->
