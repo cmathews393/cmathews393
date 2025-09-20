@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `118 ▶️` ∙ **[xaev](https://www.last.fm/music/xaev)**<br/>
 > `59 ▶️` ∙ **[marshall4](https://www.last.fm/music/marshall4)**<br/>
-> `52 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
-> `38 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
+> `48 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
+> `37 ▶️` ∙ **[LE SSERAFIM](https://www.last.fm/music/LE+SSERAFIM)**<br/>
 > `36 ▶️` ∙ **[reallerr](https://www.last.fm/music/reallerr)**<br/>
 <!--END_LASTFM_ARTISTS-->
