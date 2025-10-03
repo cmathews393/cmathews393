@@ -30,6 +30,6 @@ Top 3 movies:
 > `119 ▶️` ∙ **[xaev](https://www.last.fm/music/xaev)**<br/>
 > `59 ▶️` ∙ **[marshall4](https://www.last.fm/music/marshall4)**<br/>
 > `38 ▶️` ∙ **[Gingus](https://www.last.fm/music/Gingus)**<br/>
-> `38 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
 > `36 ▶️` ∙ **[reallerr](https://www.last.fm/music/reallerr)**<br/>
+> `36 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
 <!--END_LASTFM_ARTISTS-->
