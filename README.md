@@ -31,5 +31,5 @@ Top 3 movies:
 > `49 ▶️` ∙ **[marshall4](https://www.last.fm/music/marshall4)**<br/>
 > `36 ▶️` ∙ **[Gingus](https://www.last.fm/music/Gingus)**<br/>
 > `33 ▶️` ∙ **[reallerr](https://www.last.fm/music/reallerr)**<br/>
-> `29 ▶️` ∙ **[Rabbitology](https://www.last.fm/music/Rabbitology)**<br/>
+> `30 ▶️` ∙ **[Rabbitology](https://www.last.fm/music/Rabbitology)**<br/>
 <!--END_LASTFM_ARTISTS-->
