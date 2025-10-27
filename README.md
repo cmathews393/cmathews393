@@ -30,6 +30,6 @@ Top 3 movies:
 > `34 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `32 ▶️` ∙ **[Rabbitology](https://www.last.fm/music/Rabbitology)**<br/>
 > `30 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `15 ▶️` ∙ **[ALT BLK ERA](https://www.last.fm/music/ALT+BLK+ERA)**<br/>
 > `14 ▶️` ∙ **[Arcane](https://www.last.fm/music/Arcane)**<br/>
+> `13 ▶️` ∙ **[ALT BLK ERA](https://www.last.fm/music/ALT+BLK+ERA)**<br/>
 <!--END_LASTFM_ARTISTS-->
