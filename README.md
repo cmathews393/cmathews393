@@ -30,6 +30,6 @@ Top 3 movies:
 > `57 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `36 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `32 ▶️` ∙ **[Rabbitology](https://www.last.fm/music/Rabbitology)**<br/>
-> `29 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
-> `18 ▶️` ∙ **[Samantha Margret](https://www.last.fm/music/Samantha+Margret)**<br/>
+> `30 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
+> `19 ▶️` ∙ **[Samantha Margret](https://www.last.fm/music/Samantha+Margret)**<br/>
 <!--END_LASTFM_ARTISTS-->
