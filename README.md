@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `60 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `57 ▶️` ∙ **[Venus & the Flytraps](https://www.last.fm/music/Venus+&+the+Flytraps)**<br/>
-> `38 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `32 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
-> `19 ▶️` ∙ **[Samantha Margret](https://www.last.fm/music/Samantha+Margret)**<br/>
+> `55 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `32 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `31 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
+> `17 ▶️` ∙ **[Samantha Margret](https://www.last.fm/music/Samantha+Margret)**<br/>
 <!--END_LASTFM_ARTISTS-->
