@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `91 ▶️` ∙ **[Venus & the Flytraps](https://www.last.fm/music/Venus+&+the+Flytraps)**<br/>
 > `37 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
-> `31 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `26 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
+> `29 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `24 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
 > `18 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
 <!--END_LASTFM_ARTISTS-->
