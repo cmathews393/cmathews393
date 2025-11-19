@@ -30,6 +30,6 @@ Top 3 movies:
 > `92 ▶️` ∙ **[Venus & the Flytraps](https://www.last.fm/music/Venus+&+the+Flytraps)**<br/>
 > `37 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
 > `29 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `26 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
-> `18 ▶️` ∙ **[Machine Girl](https://www.last.fm/music/Machine+Girl)**<br/>
+> `29 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
+> `18 ▶️` ∙ **[Cain Culto](https://www.last.fm/music/Cain+Culto)**<br/>
 <!--END_LASTFM_ARTISTS-->
