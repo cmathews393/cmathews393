@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `56 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `44 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
-> `40 ▶️` ∙ **[Venus & the Flytraps](https://www.last.fm/music/Venus+&+the+Flytraps)**<br/>
 > `37 ▶️` ∙ **[Sophie](https://www.last.fm/music/Sophie)**<br/>
+> `37 ▶️` ∙ **[Venus & the Flytraps](https://www.last.fm/music/Venus+&+the+Flytraps)**<br/>
 > `30 ▶️` ∙ **[Rabbitology](https://www.last.fm/music/Rabbitology)**<br/>
 <!--END_LASTFM_ARTISTS-->
