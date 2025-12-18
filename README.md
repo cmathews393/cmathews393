@@ -31,5 +31,5 @@ Top 3 movies:
 > `43 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
 > `26 ▶️` ∙ **[Paramore](https://www.last.fm/music/Paramore)**<br/>
 > `26 ▶️` ∙ **[Rabbitology](https://www.last.fm/music/Rabbitology)**<br/>
-> `22 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
+> `23 ▶️` ∙ **[aeseaes](https://www.last.fm/music/aeseaes)**<br/>
 <!--END_LASTFM_ARTISTS-->
