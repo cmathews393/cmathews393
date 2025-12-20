@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `146 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `81 ▶️` ∙ **[Flavia](https://www.last.fm/music/Flavia)**<br/>
+> `143 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `98 ▶️` ∙ **[Flavia](https://www.last.fm/music/Flavia)**<br/>
 > `43 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
 > `26 ▶️` ∙ **[Paramore](https://www.last.fm/music/Paramore)**<br/>
-> `26 ▶️` ∙ **[Rabbitology](https://www.last.fm/music/Rabbitology)**<br/>
+> `23 ▶️` ∙ **[Aurora](https://www.last.fm/music/Aurora)**<br/>
 <!--END_LASTFM_ARTISTS-->
