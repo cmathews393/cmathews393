@@ -30,6 +30,6 @@ Top 3 movies:
 > `117 ▶️` ∙ **[Flavia](https://www.last.fm/music/Flavia)**<br/>
 > `104 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `30 ▶️` ∙ **[corook](https://www.last.fm/music/corook)**<br/>
+> `29 ▶️` ∙ **[Aurora](https://www.last.fm/music/Aurora)**<br/>
 > `29 ▶️` ∙ **[Fletcher](https://www.last.fm/music/Fletcher)**<br/>
-> `29 ▶️` ∙ **[Valorant](https://www.last.fm/music/Valorant)**<br/>
 <!--END_LASTFM_ARTISTS-->
