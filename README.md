@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `117 ▶️` ∙ **[Flavia](https://www.last.fm/music/Flavia)**<br/>
 > `33 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
-> `31 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `30 ▶️` ∙ **[corook](https://www.last.fm/music/corook)**<br/>
-> `30 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `29 ▶️` ∙ **[Fletcher](https://www.last.fm/music/Fletcher)**<br/>
+> `29 ▶️` ∙ **[Valorant](https://www.last.fm/music/Valorant)**<br/>
 <!--END_LASTFM_ARTISTS-->
