@@ -27,7 +27,7 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `105 ▶️` ∙ **[Flavia](https://www.last.fm/music/Flavia)**<br/>
+> `68 ▶️` ∙ **[Flavia](https://www.last.fm/music/Flavia)**<br/>
 > `41 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
 > `30 ▶️` ∙ **[corook](https://www.last.fm/music/corook)**<br/>
 > `29 ▶️` ∙ **[Valorant](https://www.last.fm/music/Valorant)**<br/>
