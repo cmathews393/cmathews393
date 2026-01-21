@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `41 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
 > `29 ▶️` ∙ **[Valorant](https://www.last.fm/music/Valorant)**<br/>
-> `28 ▶️` ∙ **[corook](https://www.last.fm/music/corook)**<br/>
+> `27 ▶️` ∙ **[corook](https://www.last.fm/music/corook)**<br/>
 > `27 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `25 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 <!--END_LASTFM_ARTISTS-->
