@@ -6,7 +6,7 @@ I am a DevOps Engineer with a focus in process automation and tooling. I current
 
 ## My Projects
 
-When I'm not working on things at my job, I spend my time working on a bunch of half finished projects that might eventually do something, most notably Spotiplex :)
+When I'm not working on things at my job, I spend my time working on a bunch of half finished projects that might eventually do something :)
 
 ##
 
