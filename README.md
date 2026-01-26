@@ -28,8 +28,8 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `42 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
-> `27 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `25 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `24 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `22 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `22 ▶️` ∙ **[Peggy](https://www.last.fm/music/Peggy)**<br/>
 > `19 ▶️` ∙ **[A.L.I.S.O.N](https://www.last.fm/music/A.L.I.S.O.N)**<br/>
 <!--END_LASTFM_ARTISTS-->
