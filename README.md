@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `42 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
 > `29 ▶️` ∙ **[Peggy](https://www.last.fm/music/Peggy)**<br/>
-> `22 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `20 ▶️` ∙ **[A.L.I.S.O.N](https://www.last.fm/music/A.L.I.S.O.N)**<br/>
-> `19 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `20 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `17 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 <!--END_LASTFM_ARTISTS-->
