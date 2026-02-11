@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `42 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
 > `37 ▶️` ∙ **[Peggy](https://www.last.fm/music/Peggy)**<br/>
-> `23 ▶️` ∙ **[Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers)**<br/>
+> `24 ▶️` ∙ **[Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers)**<br/>
 > `19 ▶️` ∙ **[A.L.I.S.O.N](https://www.last.fm/music/A.L.I.S.O.N)**<br/>
 > `16 ▶️` ∙ **[Harry Styles](https://www.last.fm/music/Harry+Styles)**<br/>
 <!--END_LASTFM_ARTISTS-->
