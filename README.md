@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `40 ▶️` ∙ **[Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers)**<br/>
+> `44 ▶️` ∙ **[Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers)**<br/>
 > `34 ▶️` ∙ **[Peggy](https://www.last.fm/music/Peggy)**<br/>
-> `25 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
 > `16 ▶️` ∙ **[Harry Styles](https://www.last.fm/music/Harry+Styles)**<br/>
+> `15 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
 > `13 ▶️` ∙ **[Lydia the Bard](https://www.last.fm/music/Lydia+the+Bard)**<br/>
 <!--END_LASTFM_ARTISTS-->
