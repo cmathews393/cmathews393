@@ -31,5 +31,5 @@ Top 3 movies:
 > `18 ▶️` ∙ **[Peggy](https://www.last.fm/music/Peggy)**<br/>
 > `16 ▶️` ∙ **[Harry Styles](https://www.last.fm/music/Harry+Styles)**<br/>
 > `13 ▶️` ∙ **[Lydia the Bard](https://www.last.fm/music/Lydia+the+Bard)**<br/>
-> `11 ▶️` ∙ **[Chromatics](https://www.last.fm/music/Chromatics)**<br/>
+> `10 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 <!--END_LASTFM_ARTISTS-->
