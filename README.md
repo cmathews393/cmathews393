@@ -28,8 +28,8 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `46 ▶️` ∙ **[Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers)**<br/>
-> `22 ▶️` ∙ **[xaev](https://www.last.fm/music/xaev)**<br/>
+> `27 ▶️` ∙ **[xaev](https://www.last.fm/music/xaev)**<br/>
+> `18 ▶️` ∙ **[Gingus](https://www.last.fm/music/Gingus)**<br/>
 > `18 ▶️` ∙ **[Peggy](https://www.last.fm/music/Peggy)**<br/>
-> `16 ▶️` ∙ **[Gingus](https://www.last.fm/music/Gingus)**<br/>
 > `16 ▶️` ∙ **[Harry Styles](https://www.last.fm/music/Harry+Styles)**<br/>
 <!--END_LASTFM_ARTISTS-->
