@@ -30,6 +30,6 @@ Top 3 movies:
 > `46 ▶️` ∙ **[Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers)**<br/>
 > `36 ▶️` ∙ **[marshall4](https://www.last.fm/music/marshall4)**<br/>
 > `33 ▶️` ∙ **[xaev](https://www.last.fm/music/xaev)**<br/>
+> `26 ▶️` ∙ **[Venus  the Flytraps](https://www.last.fm/music/Venus++the+Flytraps)**<br/>
 > `20 ▶️` ∙ **[Gingus](https://www.last.fm/music/Gingus)**<br/>
-> `18 ▶️` ∙ **[Peggy](https://www.last.fm/music/Peggy)**<br/>
 <!--END_LASTFM_ARTISTS-->
