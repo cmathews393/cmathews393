@@ -30,6 +30,6 @@ Top 3 movies:
 > `442 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
 > `46 ▶️` ∙ **[Venus  the Flytraps](https://www.last.fm/music/Venus++the+Flytraps)**<br/>
 > `40 ▶️` ∙ **[marshall4](https://www.last.fm/music/marshall4)**<br/>
-> `39 ▶️` ∙ **[Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers)**<br/>
 > `38 ▶️` ∙ **[xaev](https://www.last.fm/music/xaev)**<br/>
+> `34 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 <!--END_LASTFM_ARTISTS-->
