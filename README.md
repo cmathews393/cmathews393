@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `442 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
+> `452 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
+> `47 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
 > `46 ▶️` ∙ **[Venus  the Flytraps](https://www.last.fm/music/Venus++the+Flytraps)**<br/>
-> `40 ▶️` ∙ **[marshall4](https://www.last.fm/music/marshall4)**<br/>
-> `38 ▶️` ∙ **[xaev](https://www.last.fm/music/xaev)**<br/>
-> `34 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
+> `44 ▶️` ∙ **[marshall4](https://www.last.fm/music/marshall4)**<br/>
+> `42 ▶️` ∙ **[xaev](https://www.last.fm/music/xaev)**<br/>
 <!--END_LASTFM_ARTISTS-->
