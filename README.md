@@ -31,5 +31,5 @@ Top 3 movies:
 > `46 ▶️` ∙ **[Venus  the Flytraps](https://www.last.fm/music/Venus++the+Flytraps)**<br/>
 > `40 ▶️` ∙ **[marshall4](https://www.last.fm/music/marshall4)**<br/>
 > `38 ▶️` ∙ **[xaev](https://www.last.fm/music/xaev)**<br/>
-> `34 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `34 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
 <!--END_LASTFM_ARTISTS-->
