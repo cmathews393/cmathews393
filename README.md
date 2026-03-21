@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `452 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
 > `62 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
-> `46 ▶️` ∙ **[Venus  the Flytraps](https://www.last.fm/music/Venus++the+Flytraps)**<br/>
 > `40 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `31 ▶️` ∙ **[GOT the beat](https://www.last.fm/music/GOT+the+beat)**<br/>
+> `31 ▶️` ∙ **[Venus  the Flytraps](https://www.last.fm/music/Venus++the+Flytraps)**<br/>
 <!--END_LASTFM_ARTISTS-->
