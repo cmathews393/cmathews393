@@ -30,6 +30,6 @@ Top 3 movies:
 > `452 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
 > `64 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
 > `40 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `31 ▶️` ∙ **[GOT the beat](https://www.last.fm/music/GOT+the+beat)**<br/>
 > `23 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `14 ▶️` ∙ **[Lydia the Bard](https://www.last.fm/music/Lydia+the+Bard)**<br/>
 <!--END_LASTFM_ARTISTS-->
