@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `68 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
-> `40 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `33 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
-> `22 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `67 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
+> `37 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `34 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
+> `21 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `14 ▶️` ∙ **[Lydia the Bard](https://www.last.fm/music/Lydia+the+Bard)**<br/>
 <!--END_LASTFM_ARTISTS-->
