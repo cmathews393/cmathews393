@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `71 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
 > `16 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
-> `15 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `11 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `14 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `10 ▶️` ∙ **[Peggy](https://www.last.fm/music/Peggy)**<br/>
+> `9 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 <!--END_LASTFM_ARTISTS-->
