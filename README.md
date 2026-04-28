@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `94 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
 > `24 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `16 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
+> `14 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
 > `11 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `9 ▶️` ∙ **[Lydia the Bard](https://www.last.fm/music/Lydia+the+Bard)**<br/>
+> `7 ▶️` ∙ **[Dove Cameron](https://www.last.fm/music/Dove+Cameron)**<br/>
 <!--END_LASTFM_ARTISTS-->
