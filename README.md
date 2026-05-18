@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `21 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `11 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `7 ▶️` ∙ **[Dove Cameron](https://www.last.fm/music/Dove+Cameron)**<br/>
 > `7 ▶️` ∙ **[HUNTR/X](https://www.last.fm/music/HUNTR%2FX)**<br/>
 > `6 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
-> `6 ▶️` ∙ **[Dove Cameron](https://www.last.fm/music/Dove+Cameron)**<br/>
 <!--END_LASTFM_ARTISTS-->
