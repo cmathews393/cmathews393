@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `7 ▶️` ∙ **[HUNTR/X](https://www.last.fm/music/HUNTR%2FX)**<br/>
-> `6 ▶️` ∙ **[KATSEYE](https://www.last.fm/music/KATSEYE)**<br/>
 > `5 ▶️` ∙ **[aespa](https://www.last.fm/music/aespa)**<br/>
+> `5 ▶️` ∙ **[KATSEYE](https://www.last.fm/music/KATSEYE)**<br/>
 > `4 ▶️` ∙ **[Jade](https://www.last.fm/music/Jade)**<br/>
-> `4 ▶️` ∙ **[Saja Boys](https://www.last.fm/music/Saja+Boys)**<br/>
+> `4 ▶️` ∙ **[Stray Kids](https://www.last.fm/music/Stray+Kids)**<br/>
+> `4 ▶️` ∙ **[Zara Larsson](https://www.last.fm/music/Zara+Larsson)**<br/>
 <!--END_LASTFM_ARTISTS-->
