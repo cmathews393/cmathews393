@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `4 ▶️` ∙ **[Jade](https://www.last.fm/music/Jade)**<br/>
 > `4 ▶️` ∙ **[Zara Larsson](https://www.last.fm/music/Zara+Larsson)**<br/>
-> `3 ▶️` ∙ **[aespa](https://www.last.fm/music/aespa)**<br/>
 > `3 ▶️` ∙ **[Demi Lovato](https://www.last.fm/music/Demi+Lovato)**<br/>
 > `3 ▶️` ∙ **[Dua Lipa](https://www.last.fm/music/Dua+Lipa)**<br/>
+> `3 ▶️` ∙ **[Lazerhawk](https://www.last.fm/music/Lazerhawk)**<br/>
 <!--END_LASTFM_ARTISTS-->
