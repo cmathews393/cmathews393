@@ -27,9 +27,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
+> `8 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `8 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `4 ▶️` ∙ **[Jade](https://www.last.fm/music/Jade)**<br/>
 > `4 ▶️` ∙ **[Zara Larsson](https://www.last.fm/music/Zara+Larsson)**<br/>
-> `3 ▶️` ∙ **[Demi Lovato](https://www.last.fm/music/Demi+Lovato)**<br/>
-> `3 ▶️` ∙ **[Dua Lipa](https://www.last.fm/music/Dua+Lipa)**<br/>
-> `3 ▶️` ∙ **[Lazerhawk](https://www.last.fm/music/Lazerhawk)**<br/>
+> `3 ▶️` ∙ **[Abby Holliday](https://www.last.fm/music/Abby+Holliday)**<br/>
 <!--END_LASTFM_ARTISTS-->
