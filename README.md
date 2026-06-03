@@ -29,7 +29,7 @@ Top 3 movies:
 
 > `20 ▶️` ∙ **[LGHTNNG](https://www.last.fm/music/LGHTNNG)**<br/>
 > `11 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
+> `10 ▶️` ∙ **[The Midnight](https://www.last.fm/music/The+Midnight)**<br/>
 > `9 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `8 ▶️` ∙ **[Smokey Brights](https://www.last.fm/music/Smokey+Brights)**<br/>
-> `8 ▶️` ∙ **[The Midnight](https://www.last.fm/music/The+Midnight)**<br/>
 <!--END_LASTFM_ARTISTS-->
