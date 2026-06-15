@@ -2,11 +2,7 @@
 
 ## About Me
 
-I am a DevOps Engineer with a focus in process automation and tooling. I currently work at an MSP doing automation and small webapps. I prefer working in Python 🐍, but I also know some Javascript+TypeScript (As well as HTML and Bootstrap/CSS). I don't work with it very often, but I also know some C#, and have been trying to learn Rust 🦀.
-
-## My Projects
-
-When I'm not working on things at my job, I spend my time working on a bunch of half finished projects that might eventually do something :)
+I am a DevOps Engineer with a focus in process automation and tooling. I currently work at an MSP doing automation and small webapps. I prefer working in Python 🐍 for backend, and typescript (Vite/React/Next.js) for frontend.
 
 ##
 
