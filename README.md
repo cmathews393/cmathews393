@@ -26,6 +26,6 @@ Top 3 movies:
 > `29 ▶️` ∙ **[LGHTNNG](https://www.last.fm/music/LGHTNNG)**<br/>
 > `18 ▶️` ∙ **[The Midnight](https://www.last.fm/music/The+Midnight)**<br/>
 > `15 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
-> `11 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `10 ▶️` ∙ **[Nina](https://www.last.fm/music/Nina)**<br/>
+> `8 ▶️` ∙ **[Smokey Brights](https://www.last.fm/music/Smokey+Brights)**<br/>
 <!--END_LASTFM_ARTISTS-->
