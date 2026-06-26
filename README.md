@@ -27,5 +27,5 @@ Top 3 movies:
 > `18 ▶️` ∙ **[The Midnight](https://www.last.fm/music/The+Midnight)**<br/>
 > `15 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
 > `10 ▶️` ∙ **[Nina](https://www.last.fm/music/Nina)**<br/>
-> `8 ▶️` ∙ **[Smokey Brights](https://www.last.fm/music/Smokey+Brights)**<br/>
+> `8 ▶️` ∙ **[Tesla Boy](https://www.last.fm/music/Tesla+Boy)**<br/>
 <!--END_LASTFM_ARTISTS-->
