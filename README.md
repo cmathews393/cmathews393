@@ -23,9 +23,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `16 ▶️` ∙ **[Semler](https://www.last.fm/music/Semler)**<br/>
+> `21 ▶️` ∙ **[Samantha Margret](https://www.last.fm/music/Samantha+Margret)**<br/>
+> `17 ▶️` ∙ **[Semler](https://www.last.fm/music/Semler)**<br/>
 > `15 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
-> `13 ▶️` ∙ **[LGHTNNG](https://www.last.fm/music/LGHTNNG)**<br/>
+> `12 ▶️` ∙ **[LGHTNNG](https://www.last.fm/music/LGHTNNG)**<br/>
 > `11 ▶️` ∙ **[The Midnight](https://www.last.fm/music/The+Midnight)**<br/>
-> `9 ▶️` ∙ **[Nina](https://www.last.fm/music/Nina)**<br/>
 <!--END_LASTFM_ARTISTS-->
