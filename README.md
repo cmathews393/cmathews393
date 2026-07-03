@@ -26,6 +26,6 @@ Top 3 movies:
 > `22 ▶️` ∙ **[Samantha Margret](https://www.last.fm/music/Samantha+Margret)**<br/>
 > `17 ▶️` ∙ **[Semler](https://www.last.fm/music/Semler)**<br/>
 > `15 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
-> `10 ▶️` ∙ **[The Midnight](https://www.last.fm/music/The+Midnight)**<br/>
 > `9 ▶️` ∙ **[LGHTNNG](https://www.last.fm/music/LGHTNNG)**<br/>
+> `8 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 <!--END_LASTFM_ARTISTS-->
