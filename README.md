@@ -27,5 +27,5 @@ Top 3 movies:
 > `17 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `17 ▶️` ∙ **[Semler](https://www.last.fm/music/Semler)**<br/>
 > `15 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
-> `13 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
+> `14 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 <!--END_LASTFM_ARTISTS-->
