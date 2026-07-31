@@ -25,7 +25,7 @@ Top 3 movies:
 
 > `27 ▶️` ∙ **[Samantha Margret](https://www.last.fm/music/Samantha+Margret)**<br/>
 > `19 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `19 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
-> `12 ▶️` ∙ **[Semler](https://www.last.fm/music/Semler)**<br/>
+> `16 ▶️` ∙ **[Paris Paloma](https://www.last.fm/music/Paris+Paloma)**<br/>
 > `8 ▶️` ∙ **[Kitty Coen](https://www.last.fm/music/Kitty+Coen)**<br/>
+> `6 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 <!--END_LASTFM_ARTISTS-->
