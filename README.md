@@ -27,5 +27,5 @@ Top 3 movies:
 > `8 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
 > `5 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `5 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
-> `5 ▶️` ∙ **[Samantha Margret](https://www.last.fm/music/Samantha+Margret)**<br/>
+> `3 ▶️` ∙ **[ADÉLA](https://www.last.fm/music/AD%C3%89LA)**<br/>
 <!--END_LASTFM_ARTISTS-->
