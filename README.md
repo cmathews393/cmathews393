@@ -25,7 +25,7 @@ Top 3 movies:
 
 > `49 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
 > `8 ▶️` ∙ **[Ariana Grande](https://www.last.fm/music/Ariana+Grande)**<br/>
-> `5 ▶️` ∙ **[Kiki Rockwell](https://www.last.fm/music/Kiki+Rockwell)**<br/>
 > `5 ▶️` ∙ **[Post Malone](https://www.last.fm/music/Post+Malone)**<br/>
 > `5 ▶️` ∙ **[Thutmose](https://www.last.fm/music/Thutmose)**<br/>
+> `4 ▶️` ∙ **[DUCKWRTH](https://www.last.fm/music/DUCKWRTH)**<br/>
 <!--END_LASTFM_ARTISTS-->
