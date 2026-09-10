@@ -24,8 +24,8 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `49 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
-> `5 ▶️` ∙ **[Post Malone](https://www.last.fm/music/Post+Malone)**<br/>
-> `5 ▶️` ∙ **[Thutmose](https://www.last.fm/music/Thutmose)**<br/>
-> `4 ▶️` ∙ **[DUCKWRTH](https://www.last.fm/music/DUCKWRTH)**<br/>
-> `4 ▶️` ∙ **[Juice WRLD](https://www.last.fm/music/Juice+WRLD)**<br/>
+> `4 ▶️` ∙ **[Thutmose](https://www.last.fm/music/Thutmose)**<br/>
+> `4 ▶️` ∙ **[Valeria Villas](https://www.last.fm/music/Valeria+Villas)**<br/>
+> `3 ▶️` ∙ **[DUCKWRTH](https://www.last.fm/music/DUCKWRTH)**<br/>
+> `3 ▶️` ∙ **[Juice WRLD](https://www.last.fm/music/Juice+WRLD)**<br/>
 <!--END_LASTFM_ARTISTS-->
