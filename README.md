@@ -27,5 +27,5 @@ Top 3 movies:
 > `11 ▶️` ∙ **[Eva Be](https://www.last.fm/music/Eva+Be)**<br/>
 > `6 ▶️` ∙ **[M.I.A.](https://www.last.fm/music/M.I.A.)**<br/>
 > `6 ▶️` ∙ **[Valeria Villas](https://www.last.fm/music/Valeria+Villas)**<br/>
-> `4 ▶️` ∙ **[Thutmose](https://www.last.fm/music/Thutmose)**<br/>
+> `3 ▶️` ∙ **[Beastie Boys](https://www.last.fm/music/Beastie+Boys)**<br/>
 <!--END_LASTFM_ARTISTS-->
