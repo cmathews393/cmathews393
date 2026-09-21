@@ -24,7 +24,7 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `60 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
-> `41 ▶️` ∙ **[Gunship](https://www.last.fm/music/Gunship)**<br/>
+> `46 ▶️` ∙ **[Gunship](https://www.last.fm/music/Gunship)**<br/>
 > `11 ▶️` ∙ **[Eva Be](https://www.last.fm/music/Eva+Be)**<br/>
 > `6 ▶️` ∙ **[M.I.A.](https://www.last.fm/music/M.I.A.)**<br/>
 > `6 ▶️` ∙ **[Valeria Villas](https://www.last.fm/music/Valeria+Villas)**<br/>
