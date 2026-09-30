@@ -25,7 +25,7 @@ Top 3 movies:
 
 > `173 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
 > `63 ▶️` ∙ **[Gunship](https://www.last.fm/music/Gunship)**<br/>
+> `21 ▶️` ∙ **[Ghost](https://www.last.fm/music/Ghost)**<br/>
 > `12 ▶️` ∙ **[Eva Be](https://www.last.fm/music/Eva+Be)**<br/>
 > `8 ▶️` ∙ **[M.I.A.](https://www.last.fm/music/M.I.A.)**<br/>
-> `7 ▶️` ∙ **[Valeria Villas](https://www.last.fm/music/Valeria+Villas)**<br/>
 <!--END_LASTFM_ARTISTS-->
