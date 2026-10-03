@@ -6,8 +6,6 @@ I am a DevOps Engineer with a focus in process automation and tooling. I current
 
 ##
 
-<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=1248359790">
-
 Outside of my side projects and work, I like to read, watch movies, and listen to music. You can check out my goodreads for what I'm reading, and what I've read, but some of my favorites recently have been:
 
 - 🌲 The God of The Woods ([Goodreads](https://www.goodreads.com/book/show/199698485-the-god-of-the-woods)/[Hardcover](https://hardcover.app/books/the-god-of-the-woods-a751dc55-af37-4ef4-a770-bacce531f656/editions/31503244))
