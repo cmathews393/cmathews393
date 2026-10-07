@@ -24,6 +24,6 @@ Top 3 movies:
 > `173 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
 > `63 ▶️` ∙ **[Gunship](https://www.last.fm/music/Gunship)**<br/>
 > `55 ▶️` ∙ **[Raven Underground](https://www.last.fm/music/Raven+Underground)**<br/>
+> `36 ▶️` ∙ **[Kami Kehoe](https://www.last.fm/music/Kami+Kehoe)**<br/>
 > `33 ▶️` ∙ **[Ghost](https://www.last.fm/music/Ghost)**<br/>
-> `23 ▶️` ∙ **[Ella Red](https://www.last.fm/music/Ella+Red)**<br/>
 <!--END_LASTFM_ARTISTS-->
