@@ -22,7 +22,7 @@ Top 3 movies:
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
 > `173 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
-> `99 ▶️` ∙ **[Raven Underground](https://www.last.fm/music/Raven+Underground)**<br/>
+> `100 ▶️` ∙ **[Raven Underground](https://www.last.fm/music/Raven+Underground)**<br/>
 > `63 ▶️` ∙ **[Gunship](https://www.last.fm/music/Gunship)**<br/>
 > `49 ▶️` ∙ **[Kami Kehoe](https://www.last.fm/music/Kami+Kehoe)**<br/>
 > `33 ▶️` ∙ **[Ghost](https://www.last.fm/music/Ghost)**<br/>
