@@ -21,9 +21,9 @@ Top 3 movies:
 <!--START_LASTFM_ARTISTS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Month**
 
-> `88 ▶️` ∙ **[Raven Underground](https://www.last.fm/music/Raven+Underground)**<br/>
-> `49 ▶️` ∙ **[Kami Kehoe](https://www.last.fm/music/Kami+Kehoe)**<br/>
+> `69 ▶️` ∙ **[Raven Underground](https://www.last.fm/music/Raven+Underground)**<br/>
 > `23 ▶️` ∙ **[Crawlers](https://www.last.fm/music/Crawlers)**<br/>
+> `20 ▶️` ∙ **[Somebody’s Curses](https://www.last.fm/music/Somebody%E2%80%99s+Curses)**<br/>
 > `14 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
-> `13 ▶️` ∙ **[Somebody’s Curses](https://www.last.fm/music/Somebody%E2%80%99s+Curses)**<br/>
+> `13 ▶️` ∙ **[The Fray](https://www.last.fm/music/The+Fray)**<br/>
 <!--END_LASTFM_ARTISTS-->
