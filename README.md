@@ -25,5 +25,5 @@ Top 3 movies:
 > `23 ▶️` ∙ **[Crawlers](https://www.last.fm/music/Crawlers)**<br/>
 > `20 ▶️` ∙ **[Somebody’s Curses](https://www.last.fm/music/Somebody%E2%80%99s+Curses)**<br/>
 > `14 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
-> `13 ▶️` ∙ **[The Fray](https://www.last.fm/music/The+Fray)**<br/>
+> `11 ▶️` ∙ **[The Fray](https://www.last.fm/music/The+Fray)**<br/>
 <!--END_LASTFM_ARTISTS-->
