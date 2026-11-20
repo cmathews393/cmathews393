@@ -23,7 +23,7 @@ Top 3 movies:
 
 > `214 ▶️` ∙ **[WMD](https://www.last.fm/music/WMD)**<br/>
 > `68 ▶️` ∙ **[Raven Underground](https://www.last.fm/music/Raven+Underground)**<br/>
-> `42 ▶️` ∙ **[Girl Group](https://www.last.fm/music/Girl+Group)**<br/>
+> `45 ▶️` ∙ **[Girl Group](https://www.last.fm/music/Girl+Group)**<br/>
 > `23 ▶️` ∙ **[Crawlers](https://www.last.fm/music/Crawlers)**<br/>
 > `20 ▶️` ∙ **[Somebody’s Curses](https://www.last.fm/music/Somebody%E2%80%99s+Curses)**<br/>
 <!--END_LASTFM_ARTISTS-->
